@@ -128,3 +128,6 @@ df2 = pd.get_dummies(df2, prefix=['Index'] ,columns=['Index'])
 df2
 ```
 ![image](https://github.com/Sathya-006/ODD2023-Datascience-Ex-05/assets/121661327/2f35e6b3-befe-4b6d-8ee3-6278037fdc5f)
+
+# RESULT
+Feature Encoding process and Feature Scaling process is applied to the given data frame sucessfully.
